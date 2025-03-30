@@ -127,3 +127,8 @@ REDIS_PASSWORD
 REDIS_HOST
 REDIS_PORT
 REDIS_URI
+
+npm i @nestjs/config class-transformer class-validator argon2 @prisma/client cookie-parser connect-redis express-session ioredis @nestlab/goo
+gle-recaptcha @nestjs-modules/mailer @react-email/html
+
+npm i -D @trivago/prettier-plugin-sort-imports @types/uuid @types/express-sessions @types/cookie-parser @types/react
